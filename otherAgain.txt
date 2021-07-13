@@ -1,0 +1,5 @@
+Adding some text here
+Note that VIM can be used to add text to files.
+I typically don't use VIM because:
+A: Vim can be a bit daunting and confusing for new developers
+B: I find it easier (personally) to use my mouse!
