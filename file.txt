@@ -1,1 +1,4 @@
 Making changes to File.txt within the main branch
+These are changes from the other branch
+I am doing this to showcase merge conflict that DONT
+resolve automatically.
