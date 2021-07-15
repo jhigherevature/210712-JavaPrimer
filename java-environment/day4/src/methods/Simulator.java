@@ -23,5 +23,7 @@ public class Simulator {
 		acc.deposit();
 		
 		acc.deposit("Birthday Gift", 75.00);
+		
+		System.out.println("My Account has: $" + acc.viewTotal());
 	}
 }
