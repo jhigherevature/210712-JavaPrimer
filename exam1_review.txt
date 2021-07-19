@@ -1,0 +1,94 @@
+Which of these are possible outcomes of git pull? Check all that apply.
+-Nothing happens
+-Commits are downloaded; the local repo, index, and working tree are all altered
+-Commits are downloaded; the local repo is altered, but the index or working tree are not
+-Merge conflicts are detected and must be manually resolved
+-Merge conflicts are automatically resolved, and a merge commit is created
+-There are no merge conflicts, but a merge commit is still created
+O-Some local commits are erased and overwritten
+
+
+If you wanted to make a copy of a repository that "lives" under your GitHub username, you would ______ it.
+O-fork
+-clone
+-gank
+-cleanse
+
+Variable references are stored in the Stack.
+true
+
+An enhanced for loop can be used to traverse a String.
+false
+
+When a primitive value gets cast, a copy of it gets stored on the Heap.
+false
+
+What is the rule for using "varargs"?
+-It must be the only parameter in the method
+O-It must be the last parameter in the method
+-It must be the first parameter in the method
+-It cannot be the only parameter in the method
+
+
+What is the bare minimum required to run a Java application?
+O-JRE
+-Eclipse
+-JDK
+-Weblogic
+
+Which of the following is NOT a variable scope in Java
+-Instance / object
+-Class / static
+-Method
+-Block
+O-Package
+
+The main() method can be written to accept more arguments than a single String[]
+False
+
+The output of the Java compiler is Assembly code
+False
+
+Which of the following methods are in the Object class?
+-compareTo
+-describe
+-run
+O-toString
+-copy
+
+If the .equals() method returns false, the hash code of the objects being compared MUST be different
+False
+
+What is the output of the following code?
+int a = 4;
+System.out.println(a++);
+O-4 - prints 4 but the value of 'a' is increased to 5
+-5
+
+Java's String Pool...
+-Prevents the creation of multiple String objects with duplicate character sequences
+O-Prevents the creation of multiple String literals with duplicate character sequences
+-Prevents the creation of multiple String objects containing the same words
+-Prevents the creation of multiple String literals containing the same words
+
+
+Which of these is not included in a JDK
+-Compiler
+-JRE
+-Garbage Collector
+O-Linker
+-Virtual Machine
+
+How do you get the size of an array named myArray?
+-myArray.size
+O-myArray.length
+-myArray.size()
+-myArray.length() // length() is used for Strings NOT arrays
+
+
+Which of the following is NOT true about Java
+-Java is object oriented
+-Java is write once run anywhere
+O-Memory in Java is not allocated automatically
+-Java programs cannot control thread scheduling
+-Java has an API to inspect and manipulate its own code at runtime
