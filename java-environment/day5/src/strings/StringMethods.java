@@ -16,6 +16,10 @@ public class StringMethods {
 		
 		sentence.substring(sentence.indexOf('i'), sentence.length()).indexOf('i');
 		
+		// Scanner scan = new Scanner(System.in);
+		// String phrase = scan.nextLine();
+		// phrase.split(" ");
+		
 		String[] words = sentence.split(" ");
 		for (String w : words) {
 			System.out.println(w);
